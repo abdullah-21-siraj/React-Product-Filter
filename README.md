@@ -43,5 +43,6 @@ A simple React application to filter products based on availability, category, a
 - Check/uncheck the "Fruit" or "Vegetable" checkboxes to filter products by category.
 - Select a sorting option from the dropdown menu to sort products by price.
 - Click the "Reset" button to reset all filters to their default state.
+- Select the number of items per page from the dropdown menu to adjust pagination.
 
 # Feel free to customize it further based on your preferences or additional details you'd like to include!
